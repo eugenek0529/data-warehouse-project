@@ -10,7 +10,8 @@ The goal of this project is to showcase a **comprehensive data warehousing and a
 - Implementing data modeling techniques
 - Delivering clean, business-ready data for analytics
 
-<img width="643" height="415" alt="image" src="https://github.com/user-attachments/assets/c266604b-861c-4192-bb2e-0cef9dd68103" />
+<img width="705" height="425" alt="image" src="https://github.com/user-attachments/assets/953e3750-b183-4b1c-8056-d618b6106968" />
+
 
 
 This project follows the **Medallion Architecture** pattern:
