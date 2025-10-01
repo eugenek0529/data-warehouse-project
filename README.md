@@ -1,4 +1,4 @@
-# data-warehouse-project
+# Data Warehouse Project
 A basic data warehousing project built using PostgreSQL, SQL, and ETL best practices. This project demonstrates a complete data pipeline — from raw data ingestion to delivering actionable insights.
 
 ...
