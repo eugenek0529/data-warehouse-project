@@ -1,6 +1,7 @@
 # Data Warehouse Project
 A basic data warehousing project built using PostgreSQL, SQL, and ETL best practices. This project demonstrates a complete data pipeline — from raw data ingestion to delivering actionable insights.
 
+Working Environment: pgAdmin 4 version 9.8
 ...
 
 The goal of this project is to showcase a **comprehensive data warehousing and analytics solution**, including:
